@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Youngjin Park"
-  pronouns         :   
-  bio              : "M.S. Student @ DGIST"
+  institute        : "DGIST"  
+  Interests        : "🤖 Physical A.I. · 🕺 Motion Modeling & Planning · 🦾 Robotics A.I. · 🧠 Multi-modal based Learning"
   location         : "Daegu, Korea"
   uri              : # URL
-  email            : yj100520@dgist.ac.kr
+  email            : "yj100520@dgist.ac.kr"
 
   # Academic websites
   academia         : # URL
