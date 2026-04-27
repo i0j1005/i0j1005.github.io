@@ -25,12 +25,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Youngjin Park"
-  pronouns         : "he/his"  
-  bio              : "DGIST graduate student"
+  pronouns         :   
+  bio              : "M.S. Student @ DGIST"
   location         : "Daegu, Korea"
-  # employer         : "Harvard Medical School"
   uri              : # URL
-  email            : yj100520 at dgist.ac.kr
+  email            : yj100520@dgist.ac.kr
 
   # Academic websites
   academia         : # URL
@@ -64,7 +63,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "i0.jin_2"
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "youngjin-park-47490120b"
   mastodon         : # URL
