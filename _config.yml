@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Youngjin Park"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "DGIST graduate student"
-  location         : "Goyang-si, Gyeonggi-do, South Korea"
+  location         : "Daegu, Korea"
   # employer         : "Harvard Medical School"
   uri              : # URL
   email            : yj100520 at dgist.ac.kr
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "i0.jin_2"
   lastfm           : # Username
   linkedin         : "youngjin-park-47490120b"
   mastodon         : # URL
