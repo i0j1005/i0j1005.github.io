@@ -21,8 +21,8 @@ Education
 
 Internship
 ======
-* Research Intern, Harvard Medical School (Advisor: Kyungwook Kenneth Jee) June 2025 - August 2025
-* Research Intern, Intelligent Imaging and Vision Systems Laboratory, DGIST (Advisor: Inkyu Moon) July 2024 - January 2025
+* Research Intern, Harvard Medical School (Advisor: Prof. Kyungwook Kenneth Jee)                        June 2025 - August 2025
+* Research Intern, Intelligent Imaging and Vision Systems Laboratory, DGIST (Advisor: Prof. Inkyu Moon) July 2024 - January 2025
 
 
 Publications
