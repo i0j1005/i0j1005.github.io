@@ -144,6 +144,31 @@
     </div>
   </div>
   {% endif %}
+
+  {% if cv.certificates.size > 0 %}
+  <!-- Certificates -->
+  <div class="cv-section">
+    <h2>Certificates</h2>
+    <ul class="cv-list">
+      {% for certificate in cv.certificates %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{{ certificate.name }}</div>
+          <div class="cv-item-date">{{ certificate.date }}</div>
+        </div>
+        <div class="cv-item-content">
+          <div class="cv-item-subtitle">{{ certificate.issuer }}</div>
+          {% if certificate.url %}
+          <div class="cv-item-detail">
+            <a href="{{ certificate.url }}" target="_blank">View Certificate</a>
+          </div>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
   
   {% if cv.publications.size > 0 %}
   <!-- Publications -->

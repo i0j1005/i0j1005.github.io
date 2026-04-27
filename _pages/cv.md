@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+published: false
 redirect_from:
   - /resume
 ---
@@ -11,54 +12,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. Student in Artificial Intelligence, DGIST, 2026 - 2028
+* Visiting Student, University of California, Berkeley, Summer 2023
+* B.S. in Computer Engineering, DGIST, 2020 - 2026
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Intern, Harvard Medical School, June 2025 - August 2025
+  * Boston, Massachusetts, United States
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Certificate
+======
+* edX Verified Certificate for Data Science: Machine Learning and Predictions, edX, issued May 2021
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Korean: Native or bilingual proficiency
+* English: Advanced
 
-Publications
+Professional interests
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Physical AI
+* Multimodal AI
+* Applying AI capabilities across domains to support practical, real-world needs
+
+Preprints
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Youngjin Park\*, Hyunjin Lim\*, and Daehee Park. "Efficient Test-Time Alignment of LLM-Based Planners via Sequential Trajectory Grouping to Bridge the Domain Gap." Preprint, 2026. \*Equal contribution.
