@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Youngjin Park, pursuing graduate study in Artificial Intelligence at DGIST (Daegu Gyeongbuk Institute of Science and Technology).
+I am Youngjin Park, an M.S. student in Artificial Intelligence at DGIST (Daegu Gyeongbuk Institute of Science and Technology). I am a member of the Intelligent Systems and Learning Lab.
 
-My interests include Physical AI and Multimodal AI. More broadly, I believe AI can become a practical capability that helps people across many domains, not only within a single specialized field.
+
+My research interests include Physical AI and Multimodal AI. More broadly, I am interested in AI systems that can connect perception, language, planning, and interaction, and I believe these capabilities can become practical tools that help people across many domains in everyday life, not only within a single specialized field.
+
 
 Education
 ======
@@ -19,7 +21,13 @@ Education
 
 Internship
 ======
-* Research Intern, Harvard Medical School, June 2025 - August 2025
+* Research Intern, Harvard Medical School (Advisor: Kyungwook Kenneth Jee) June 2025 - August 2025
+* Research Intern, Intelligent Imaging and Vision Systems Laboratory, DGIST (Advisor: Inkyu Moon) July 2024 - January 2025
+
+
+Publications
+======
+* Youngjin Park\*, Hyunjin Lim\*, and Daehee Park. "Efficient Test-Time Alignment of LLM-Based Planners via Sequential Trajectory Grouping to Bridge the Domain Gap." Preprint, 2026. \*Equal contribution.
 
 
 Languages
@@ -27,9 +35,6 @@ Languages
 * Korean: Native or bilingual proficiency
 * English: Advanced
 
-Preprints
-======
-* Youngjin Park\*, Hyunjin Lim\*, and Daehee Park. "Efficient Test-Time Alignment of LLM-Based Planners via Sequential Trajectory Grouping to Bridge the Domain Gap." Preprint, 2026. \*Equal contribution.
 
 Links
 ======
