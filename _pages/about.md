@@ -7,10 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Youngjin Park, an M.S. student in Artificial Intelligence at DGIST (Daegu Gyeongbuk Institute of Science and Technology). I am a member of the Intelligent Systems and Learning Lab.
+I am Youngjin Park, an M.S. student in Artificial Intelligence at DGIST (Daegu Gyeongbuk Institute of Science and Technology), where I am a member of the Intelligent Systems and Learning Lab.
 
+I received my B.S. degree in Computer Engineering from the School of Undergraduate Studies at DGIST. During my undergraduate years, I gained research experience in applying artificial intelligence across diverse domains, including human-computer interaction, bio-imaging, and other interdisciplinary applications. These experiences shaped my interest in building AI systems that are not only technically capable, but also useful, adaptive, and applicable to real-world problems.
 
-My research interests include Physical AI and Multimodal AI. More broadly, I am interested in AI systems that can connect perception, language, planning, and interaction, and I believe these capabilities can become practical tools that help people across many domains in everyday life, not only within a single specialized field.
+My current research interests lie in Physical AI, Multimodal AI, and robot learning. In particular, I am interested in foundation models for robotics, such as vision-language-action models, and in AI systems that can connect perception, language, planning, and interaction. More broadly, I aim to study intelligent systems that can understand and act in the physical world, interact with humans and environments, and eventually become practical tools that help people across many domains in everyday life.
+
+I am always open to research discussions, collaborations, and co-working opportunities with people who share related interests.
 
 
 Education
@@ -30,12 +33,5 @@ Publications
 * Youngjin Park\*, Hyunjin Lim\*, and Daehee Park. "Efficient Test-Time Alignment of LLM-Based Planners via Sequential Trajectory Grouping to Bridge the Domain Gap." Preprint, 2026. \*Equal contribution.
 
 
-Languages
-======
-* Korean: Native or bilingual proficiency
-* English: Advanced
 
 
-Links
-======
-* [LinkedIn](https://www.linkedin.com/in/youngjin-park-47490120b/)
