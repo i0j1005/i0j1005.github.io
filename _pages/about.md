@@ -30,7 +30,7 @@ Internship
 
 Publications
 ======
-* Youngjin Park\*, Hyunjin Lim\*, and Daehee Park. "Efficient Test-Time Alignment of LLM-Based Planners via Sequential Trajectory Grouping to Bridge the Domain Gap." Preprint, 2026. \*Equal contribution.
+* Youngjin Park\*, Hyunjin Lim\*, and Daehee Park. "Sequential Grouping Enables Efficient Test-Time Alignment for Closed-Loop LLM-based Motion Planning" Preprint, 2026. 
 
 
 
